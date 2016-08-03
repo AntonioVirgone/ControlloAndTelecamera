@@ -1,0 +1,17 @@
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/UnityEngine.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/UnityEditor.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Mono.Cecil.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Unity.DataContract.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/obj/Debug/Assembly-CSharp.dll
+/Users/AntonioVirgone/Documents/workspases/unity/ControlloAndTelecamera/obj/Debug/Assembly-CSharp.dll.mdb
